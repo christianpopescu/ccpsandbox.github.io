@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/christianpopescu/ccpsandbo
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-[go page 1](https://github.com/christianpopescu/ccpsandbox.github.io/edit/master/page1.md) 
+[go page 1](page1.md) 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
